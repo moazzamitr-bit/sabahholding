@@ -4,8 +4,8 @@ Premium bilingual corporate website for Sabah Industrial Group, available in Per
 
 ## Live preview
 
-- [English](https://sabah-industrial-group.moazzamitr.chatgpt.site/en)
-- [فارسی](https://sabah-industrial-group.moazzamitr.chatgpt.site/fa)
+- [English](https://moazzamitr-bit.github.io/sabahholding/en)
+- [فارسی](https://moazzamitr-bit.github.io/sabahholding/fa)
 
 ## Highlights
 
